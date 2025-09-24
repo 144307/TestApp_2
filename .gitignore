@@ -1,0 +1,17 @@
+build/
+.sencha/
+bootstrap.js
+bootstrap.json
+bootstrap.css
+.sass-cache/
+node_modules/
+npm-debug.log*
+yarn-error.log
+yarn-debug.log
+.LSOverride
+Thumbs.db
+ehthumbs.db
+.vscode/
+.idea/
+*.swp
+*~
