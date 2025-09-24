@@ -1,6 +1,6 @@
 # extJS App
 
-Версия extJS: "version":"6.2.0.981"
+Версия extJS: 6.2.0.981
 
 ![](images/Screenshot1.png)
 
